@@ -15,7 +15,7 @@ function App() {
           <div className="flex justify-between h-16">
             <div className="flex items-center">
               <Code className="h-8 w-8 text-indigo-600" />
-              <span className="ml-2 text-xl font-bold text-gray-900">portfolio</span>
+              <span className="ml-2 text-xl font-bold text-gray-900">Portfolio</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#about" className="text-gray-700 hover:text-indigo-600">About</a>
